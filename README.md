@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maqsoodhussain
 - 👀 I’m interested in PROGRAMING AND PHOTOGRAPY
 - 🌱 I’m currently learning  CODING AND AI
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking to collaboration
 - 📫 You can reach me on twitter 
 
 <!---
