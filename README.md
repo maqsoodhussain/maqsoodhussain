@@ -1,6 +1,6 @@
-#MAQSOOD HUSSAIN WANI 
+# MAQSOOD HUSSAIN WANI 
 
--##Links for Mca material blow: 
+## Links for Mca material blow: 
 ### [ALP NOTES  ](https://maqsoodhussain.github.io/emunotes/).
 ### [MCA NOTES PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/bcamca/).
 
