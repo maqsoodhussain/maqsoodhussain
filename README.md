@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## [ALP NOTES  ](https://maqsoodhussain.github.io/emunotes/).
+## MATERIAL FOR MCA STUDENS FREE [MCA NOTES PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/bcamca/).
+
 <!--
 **maqsoodhussain/maqsoodhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
