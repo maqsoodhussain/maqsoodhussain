@@ -2,7 +2,7 @@
 
 # Links for Mca material blow: 
 ### [ALP NOTES  ](https://maqsoodhussain.github.io/emunotes/).
-### [BCA AND MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/bcamca/).
+### [BCA AND MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca/).
 
 <!--
 **maqsoodhussain/maqsoodhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
