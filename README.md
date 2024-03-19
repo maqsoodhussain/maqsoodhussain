@@ -3,6 +3,7 @@
 # Links for Mca material blow: 
 ### [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
 ### [BCA AND MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
+Second semester notes are available till this date Data structure full material is upload check in [MCA SECOND SEMESTER](https://maqsoodhussain.github.io/mca/secondsem.html)
 
 <!--
 **maqsoodhussain/maqsoodhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
