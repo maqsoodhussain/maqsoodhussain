@@ -32,7 +32,7 @@
 - [BCA AND MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
  <br>
  
- ## Clients:: 🚀
+ ## Clients: 🏅
 - [Pursukoonvilla](https://pursukoonvilla.live)
 
  <br>
