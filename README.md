@@ -3,18 +3,11 @@
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOODH+USSAIN+WANI+👋;&center=true&size=30">
   </a>
+</h1>
 <p>
     <img src="assets/undraw_version_control_re_mg66.svg" align="right" width="300" />
     I am a passionate Computer Student from Kashmir. I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to <a href="https://www.linkedin.com/in/maqsoodhussainwani" target="_blank">contact me</a>.
 </p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <div align="center">
 
