@@ -88,6 +88,10 @@ Second semester notes are available till this date Data structure full material 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=maqsoodhussain&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 <!--
 **maqsoodhussain/maqsoodhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
