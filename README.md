@@ -1,7 +1,5 @@
 # MAQSOOD HUSSAIN WANI 
 
-<br>
-
 ## Links for Mca material blow:: 🚀
 - [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
 - [BCA AND MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
@@ -12,8 +10,8 @@
 
 ### Languages:
 | Python3 | C | JS |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
   
 
