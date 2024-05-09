@@ -26,6 +26,14 @@
 
 </div>
 
+ <br>
+ <br>
+ ## 🌐 Socials:
+[![X](https://img.shields.io/badge/kaggle.svg?logo=X&logoColor=white)](https://x.com/maqsoodhussainwani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maqsoodhussainwani) 
+<!-- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/malik-azad)  -->
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_maqsoodhussain)
+
 
 ## Links for Mca material blow:: 🚀
 - [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
