@@ -1,7 +1,7 @@
-# MAQSOOD HUSSAIN WANI 
+
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI+👋;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI+👋;&center=true&size=30&color=white">
   </a>
 </h1>
 <p>
