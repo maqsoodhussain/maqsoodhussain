@@ -8,10 +8,11 @@
 ## Languages and Tools 
 <div>
 
+
 ### Languages:
-| Python3 | C | JS | Android | Flutter |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="JavaScript" alt="Flutter" width="55" height="55"/> |
+| Python3 | C | JS | Android Studio | Android | Flutter |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Androidstudio" alt="andoidstudio" width="55" height="55"/> ||<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="android" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="Flutter" width="55" height="55"/> |
 
 
   
