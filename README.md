@@ -48,6 +48,24 @@
 
  <br>
  <br>
+
+  ## Mini Projects: 📌🎗️
+- [Rock Paper Scissors Game](https://maqsoodhussain.github.io/Rock-Paper-Scissors/)
+- [Tic Tac Toe](https://maqsoodhussain.github.io/Tic-Tac-Toe/)
+- [Blub On Off](https://maqsoodhussain.github.io/blubonoff/)
+- [Basic Resume](https://maqsoodhussain.github.io/resume/)
+
+ <br>
+ <br>
+
+   ## Projects Done : 🧑‍💻
+- [WEBSITE FOR MCA ](https://maqsoodhussain.github.io/mca)
+- [WEBSITE FOR THE VILLA ](https://pursukoonvilla.live)
+- [CHAT APP](https://github.com/maqsoodhussain/ChatRoom)
+
+
+ <br>
+ <br>
  <br>
 <div>
 
