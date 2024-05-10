@@ -144,7 +144,7 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=maqsoodhussain&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqsoodhussain&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/langs/?username=maqsoodhussain&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
