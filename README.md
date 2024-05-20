@@ -41,6 +41,7 @@
 ## Links for Mca material blow:: 🚀
 - [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
 - [BCA AND MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
+- [DATA STRUCTURES NOTES ](https://github.com/maqsoodhussain/Data-Structure-Notes?tab=readme-ov-file#introduction-to-data-structures)
  <br>
  
  ## Clients: 🏅
