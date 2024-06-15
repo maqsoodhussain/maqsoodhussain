@@ -6,7 +6,7 @@
 </h1>
 <p>
     <img src="assets/undraw_version_control_re_mg66.svg" align="right" width="250" />
-    I am a passionate Computer Student from Kashmir. I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to <a href="https://www.linkedin.com/in/maqsoodhussainwani" target="_blank">contact me</a>.
+    I am a passionate Computer Student from Kashmir. I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to <a href="https://maqsoodhussain.github.io" target="_blank">contact me</a>.
 </p>
 <br>
 <br>
