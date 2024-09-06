@@ -36,7 +36,7 @@
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maqsoodhussainwani) [![Kaggle](https://img.shields.io/badge/Kaggle-%23FF4500.svg?logo=Kaggle&logoColor=white)](https://reddit.com/user/maqsoodhussainwani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_maqsoodhussain) -->
 
- # [MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
+ # [MCA PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
 
 ## Links for Mca material blow:: 🚀
 - [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
