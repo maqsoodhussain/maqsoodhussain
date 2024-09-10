@@ -38,6 +38,8 @@
 
  # [MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
  # [MCA PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
+ # [Join Community ](https://mca.free.nf). 
+  # [TheGreatTech ](https://thegreattech.tech). 
 
 ## Links for Mca material blow:: 🚀
 - [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
