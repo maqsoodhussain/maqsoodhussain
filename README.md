@@ -6,7 +6,8 @@
 </h1>
 <p>
     <img src="assets/undraw_version_control_re_mg66.svg" align="right" width="250" />
-    I am a passionate Computer Student  and CEO of the <a href="https://thegreattech.tech/" color = "white">TheGreatTech</a>". I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to <a href="https://maqsoodhussain.github.io" target="_blank">contact me</a>.
+    I am the CEO of <a href="https://thegreattech.tech/" color = "white">*TheGreatTech*</a>", a company focused on website development, mobile apps, and graphic design. I lead a talented team and have built a community where tech enthusiasts can join, collaborate, and share knowledge.
+     If you would like to learn more about me, please feel free to <a href="https://maqsoodhussain.github.io" target="_blank">contact me</a>.
 </p>
 <br>
 <br>
