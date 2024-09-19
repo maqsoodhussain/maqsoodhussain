@@ -83,7 +83,7 @@
 
 
 ### CERTIFICATES :
-| BCA | MCA | CS50X | CS50P | WEB-DEVELOP | AI |
+| BCA | MCA | CS50X | CS50P | WEB DEV| AI |
 |----------|----------|----------|----------|----------|----------|
 |  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="BCA"  alt="BCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="MCA"  alt="MCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="MCA" alt="CS50" width="55" height="55"/> |<img src="https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png" title="CS50" alt="CS50" width="55" height="55"/> |
 
