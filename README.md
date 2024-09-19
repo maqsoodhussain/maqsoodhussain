@@ -40,7 +40,7 @@
 
  # [MCA PAPERS AND HANDWRITTEN NOTES FOR COMPUTER STUDENTS](https://maqsoodhussain.github.io/mca). 
  # [Join Tech Community ](https://mca.free.nf)
-  # [TheGreatTech ](https://thegreattech.tech) support@thegreattech.tech
+  # [TheGreatTech ](https://thegreattech.tech) <br>support@thegreattech.tech
 
 ## Links for Mca material blow:: 🚀
 - [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
