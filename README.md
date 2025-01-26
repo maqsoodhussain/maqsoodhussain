@@ -97,21 +97,19 @@
 
 
 
-### Languages:
 | Python3 | C | JS | Android Studio | Android | Flutter | Java | C++ | Dart | HTML | CSS |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|  ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | 
-![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) |  
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) |
-![Android Studio](https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg) | 
-![Android](https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg) |
-![Flutter](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg) |
-![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg) |
-![C++](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg) |
-![Dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg) |
-![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) |
-![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) |
-
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | 
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="androidstudio" width="55" height="55"/> | 
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="android" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="Flutter" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> |
 
 
 <!--
