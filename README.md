@@ -99,6 +99,7 @@
 
 | Python3 | C | JS | Android Studio | Android | Flutter | Java | C++ | Dart | HTML | CSS |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| <p align="center">Python</p> | <p align="center">C</p> | <p align="center">JavaScript</p> | <p align="center">Android Studio</p> | <p align="center">Android</p> | <p align="center">Flutter</p> | <p align="center">Java</p> | <p align="center">C++</p> | <p align="center">Dart</p> | <p align="center">HTML</p> | <p align="center">CSS</p> |
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
