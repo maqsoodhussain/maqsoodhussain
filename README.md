@@ -30,9 +30,7 @@
  <br>
  <br>
 
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f64da880-ad15-4d12-8a84-e4d664c56941" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
- <br><br>
 
 
 
