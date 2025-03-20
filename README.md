@@ -33,7 +33,7 @@
 
 
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f64da880-ad15-4d12-8a84-e4d664c56941" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
  <!-- ## 🌐 Socials:
 
@@ -85,9 +85,9 @@
 
 
 ### CERTIFICATES :
-| BCA | MCA | CS50X | CS50P | WEB DEV| AI |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="BCA"  alt="BCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="MCA"  alt="MCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="MCA" alt="CS50" width="55" height="55"/> |<img src="https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png" title="CS50" alt="CS50" width="55" height="55"/> |
+|Github Foundation| BCA | MCA | CS50X | CS50P | WEB DEV| AI |
+|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="[https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png](https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)" title="github founaiton"  alt="github foundation" width="55" height="55"/> ||  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="BCA"  alt="BCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="MCA"  alt="MCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="MCA" alt="CS50" width="55" height="55"/> |<img src="https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png" title="CS50" alt="CS50" width="55" height="55"/> |
 
 
 
