@@ -12,10 +12,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
-<br>
 <div align="center">
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
@@ -24,7 +21,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-## GitHub Foundation Certificate
+</div>
+
+<br><br>
+# GitHub Foundation Certificate
 
 I am proud to have earned the **GitHub Foundation Certificate**, which demonstrates my proficiency in using GitHub for version control, collaboration, and development workflows. This certificate validates my skills and commitment to best practices in software development.
 
@@ -32,12 +32,10 @@ I am proud to have earned the **GitHub Foundation Certificate**, which demonstra
   <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundation Certificate" width="300" height="300"/>
 </p>
 
-
 ---
 
 For more details, you can visit [GitHub Foundation Certification](https://www.credly.com/badges/f64da880-ad15-4d12-8a84-e4d664c56941/public_url).
 
-</div>
 
  <br>
  <br>
