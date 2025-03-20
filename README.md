@@ -15,7 +15,7 @@
 ## 🚀 Professional Overview
 
 <p align="left">
-  <img src="undraw_developer-activity_dn7p.svg" align="right" width="300" />
+  <img src="undraw_developer-activity_dn7p.svg" align="right" width="200" />
   
   - 💼 Founder & CEO of [TheGreatTech](https://thegreattech.tech) - Award-winning development agency
   - 🌐 Creator of [MCA Community](https://mca.free.nf) - 500+ member developer collective
