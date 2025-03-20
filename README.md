@@ -83,8 +83,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maqsoodhussain" alt="GitHub Streak" /></a>
-  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maqsoodhussain&theme=dark" alt="GitHub Streak" /></a> 
   <br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=maqsoodhussain&show_icons=true&theme=vision-friendly-dark&include_all_commits=true">
