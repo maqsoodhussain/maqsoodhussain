@@ -24,6 +24,18 @@
 [![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+## GitHub Foundation Certificate
+
+I am proud to have earned the **GitHub Foundation Certificate**, which demonstrates my proficiency in using GitHub for version control, collaboration, and development workflows. This certificate validates my skills and commitment to best practices in software development.
+
+<p align="center">
+  <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundation Certificate" width="300" height="300"/>
+</p>
+
+
+---
+
+For more details, you can visit [GitHub Foundation Certification](https://www.credly.com/badges/f64da880-ad15-4d12-8a84-e4d664c56941/public_url).
 
 </div>
 
@@ -33,18 +45,15 @@
 
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f64da880-ad15-4d12-8a84-e4d664c56941" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
  <!-- ## 🌐 Socials:
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maqsoodhussainwani) [![Kaggle](https://img.shields.io/badge/Kaggle-%23FF4500.svg?logo=Kaggle&logoColor=white)](https://reddit.com/user/maqsoodhussainwani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_maqsoodhussain) -->
 
+  # [TheGreatTech ](https://thegreattech.tech)
 
- # [MCA PAPERS AND HANDWRITTEN NOTES FOR COMPUTER STUDENTS](https://maqsoodhussain.github.io/mca). 
- # [Join Tech Community ](https://mca.free.nf)
-  # [TheGreatTech ](https://thegreattech.tech) <br>support@thegreattech.tech
-
-## Links for Mca material blow:: 🚀
+# Links for Mca material blow:: 🚀
 - [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
 - [BCA AND MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
 - [DATA STRUCTURES NOTES ](https://github.com/maqsoodhussain/Data-Structure-Notes?tab=readme-ov-file#introduction-to-data-structures)
@@ -87,7 +96,7 @@
 ### CERTIFICATES :
 |Github Foundation| BCA | MCA | CS50X | CS50P | WEB DEV| AI |
 |----------|----------|----------|----------|----------|----------|----------|
-|  <img src="[https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png](https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)" title="github founaiton"  alt="github foundation" width="55" height="55"/> ||  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="BCA"  alt="BCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="MCA"  alt="MCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="MCA" alt="CS50" width="55" height="55"/> |<img src="https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png" title="CS50" alt="CS50" width="55" height="55"/> |
+|  <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" title="github founaiton"  alt="github foundation" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="BCA"  alt="BCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="MCA"  alt="MCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="MCA" alt="CS50" width="55" height="55"/> |<img src="https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png" title="CS50" alt="CS50" width="55" height="55"/> |
 
 
 
