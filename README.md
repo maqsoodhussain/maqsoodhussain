@@ -1,207 +1,139 @@
-
 <h1 align="center">
-  <a href="#" color = "white">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI;&center=true&size=30">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI;&center=true&size=30&color=00C7FF&width=550&fontWeight=600">
   </a>
 </h1>
-<p>
-    <img src="assets/undraw_version_control_re_mg66.svg" align="right" width="250" /><br>
-    I am the CEO of <a href="https://thegreattech.tech/" color = "white"><b>TheGreatTech<b></a>, a company focused on website development, mobile apps, and graphic design. I lead a talented team and have built a <a href="https://mca.free.nf"> community </a> where tech enthusiasts can join, collaborate, and share knowledge.
-     If you would like to learn more about me, please feel free to contact me on <a href="mailto:maqsood@thegreattech.tech" target="_blank">maqsood@thegreattech.tech</a>.
-</p>
-<br>
-<br>
-<br>
-
-<div align="center">
-
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-</div>
-
-<br><br>
-# GitHub Foundation Certificate
-
-I am proud to have earned the **GitHub Foundation Certificate**, which demonstrates my proficiency in using GitHub for version control, collaboration, and development workflows. This certificate validates my skills and commitment to best practices in software development.
 
 <p align="center">
-  <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundation Certificate" width="300" height="300"/>
+  <img src="assets/undraw_version_control_re_mg66.svg" width="300" /> 
+  <br>
+  <b>CEO @ TheGreatTech</b> | Full-Stack Developer | Tech Community Architect
+</p>
+
+--- 
+
+## 🚀 Professional Overview
+
+<p align="left">
+  <img src="undraw_developer-activity_dn7p.svg" align="right" width="300" />
+  
+  - 💼 Founder & CEO of [TheGreatTech](https://thegreattech.tech) - Award-winning development agency
+  - 🌐 Creator of [MCA Community](https://mca.free.nf) - 500+ member developer collective
+  - 📚 Curator of [BCA/MCA Resources](https://maqsoodhussain.github.io/mca)
+  - 🏅 GitHub Certified Developer | CS50 Alumni
+  - 📫 Contact: [maqsood@thegreattech.tech](mailto:maqsood@thegreattech.tech)
+
+  **"Engineering digital solutions that drive business growth"**
 </p>
 
 ---
 
-For more details, you can visit [GitHub Foundation Certification](https://www.credly.com/badges/f64da880-ad15-4d12-8a84-e4d664c56941/public_url).
+## � GitHub Foundation Certification
 
-
- <br>
- <br>
-
-
-
-
-
-
- <!-- ## 🌐 Socials:
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maqsoodhussainwani) [![Kaggle](https://img.shields.io/badge/Kaggle-%23FF4500.svg?logo=Kaggle&logoColor=white)](https://reddit.com/user/maqsoodhussainwani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_maqsoodhussain) -->
-
-  # [TheGreatTech ](https://thegreattech.tech)
-
-# Links for Mca material blow:: 🚀
-- [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
-- [BCA AND MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
-- [DATA STRUCTURES NOTES ](https://github.com/maqsoodhussain/Data-Structure-Notes?tab=readme-ov-file#introduction-to-data-structures)
- <br>
- 
- ## Clients: 🏅
-- [Pursukoonvilla](https://pursukoonvilla.live)
-- [Woman And Child Welfare Society- NGO](https://wcwsociety.org.in)
-- [Stress Out Tour and Travel](https://stressouttours.com)
-
- <br>
- <br>
-
-  ## Mini Projects: 📌🎗️
-- [Rock Paper Scissors Game](https://maqsoodhussain.github.io/Rock-Paper-Scissors/)
-- [Tic Tac Toe](https://maqsoodhussain.github.io/Tic-Tac-Toe/)
-- [Blub On Off](https://maqsoodhussain.github.io/blubonoff/)
-- [Basic Resume](https://maqsoodhussain.github.io/resume/)
-
- <br>
- <br>
-
-   ## Projects Done : 🧑‍💻
-- [WEBSITE FOR MCA ](https://maqsoodhussain.github.io/mca)
-- [WEBSITE FOR THE VILLA ](https://pursukoonvilla.live)
-- [CHAT APP](https://github.com/maqsoodhussain/ChatRoom)
-
-
- <br>
- <br>
- <br>
-<div>
-
-### 🎯 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-<!-- certificates  -->
-
-
-### CERTIFICATES :
-|Github Foundation| BCA | MCA | CS50X | CS50P | WEB DEV| AI |
-|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" title="github founaiton"  alt="github foundation" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="BCA"  alt="BCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/University_of_Kashmir_logo.png" title="MCA"  alt="MCA" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/225px-Harvard_University_coat_of_arms.svg.png" title="MCA" alt="CS50" width="55" height="55"/> |<img src="https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png" title="CS50" alt="CS50" width="55" height="55"/> |<img src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png" title="CS50" alt="CS50" width="55" height="55"/> |
-
-
-
-
-<!-- certificates end -->
-
-
-
-
-
-
-
-### Languages:
-| Python3 | C | JS | Android Studio | Android | Flutter | HTML | CSS | JAVA | CPP | DART | PHP |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="androidstudio" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="android" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/> |
-
-
-  
-<!--
-### Best frameworks and main libraries for Python3:
-
-| Pytorch| Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
-
-
-### My tools for Data Manipulation:
-
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
-
-
-
-  
-### Environments, Testing, Other:
-
-| nodejs | Git | Docker | Pytest | Swagger | Postman | Virtual Box| HardHat |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|
-
--->
-### OS: ❤️ (linux one love)
-
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
-
-### Technologies i use.:
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/> -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/> -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="dg" alt="dg" width="30" height="30"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="cl" alt="CL" width="30" height="30"/>
-   
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/> -->
-
+<div align="center">
+  <h3>Official Certification Badge</h3>
+  <a href="https://www.credly.com/badges/f64da880-ad15-4d12-8a84-e4d664c56941/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="200">
+  </a>
+  <br>
+  <i>Validated expertise in GitHub workflows and collaboration</i>
 </div>
 
+---
 
+## 💻 Technical Expertise
+
+### Core Development Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</p>
+
+### Web & Mobile Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+---
+
+## 🌟 Project Portfolio
+
+### Enterprise Solutions
+| <img src="https://www.thegreattech.tech/img/clients/stressOut.jpg" width="100"> | <img src="https://www.thegreattech.tech/img/clients/wcwsociety.png" width="100"> | <img src="https://www.thegreattech.tech/img/clients/pursukoonvilla.png" width="100"> |
+|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [Stress Out Tours](https://stressouttours.com)                                                             | [WCW Society](https://wcwsociety.org.in)                                                           | [Pursukoon Villa](https://pursukoonvilla.live)                                                                  |
+
+### Educational Resources
+- [📘 ALP Study Notes](https://maqsoodhussain.github.io/emunotes/)
+- [📚 Data Structures Masterclass](https://github.com/maqsoodhussain/Data-Structure-Notes)
+- [🎓 MCA Syllabus Portal](https://maqsoodhussain.github.io/mca)
+
+### Experimental Projects
+| [🎮 Tic Tac Toe](https://maqsoodhussain.github.io/Tic-Tac-Toe/) | [💡 Smart Bulb](https://maqsoodhussain.github.io/blubonoff/) | [📄 Interactive CV](https://maqsoodhussain.github.io/resume/) |
+|----------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maqsoodhussain" alt="GitHub Streak" /></a>
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=maqsoodhussain&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=maqsoodhussain&show_icons=true&theme=vision-friendly-dark&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqsoodhussain&layout=compact&theme=vision-friendly-dark&langs_count=8">
 </p>
 
+---
 
-
-
-
-
+## 🌐 Connect With Me
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=maqsoodhussain&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqsoodhussain&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
- 
+  <a href="https://linkedin.com/in/maqsoodhussainwani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/_maqsoodhussain" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://kaggle.com/maqsoodhussain" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
 </p>
- 
 
+---
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=maqsoodhussain&style=for-the-badge&color=orange" alt=""/>
+## ☕ Support My Work
+
+If you find my work valuable, please consider buying me a coffee – your support helps me continue building and sharing great tech:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/maqsoodhussain" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</p>
+
+*Thank you for visiting my profile!*
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maqsoodhussain&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  
+  <br>
+  
+  <img src="assets/github-snake.svg" width="100%">
+  
+  [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/maqsoodhussain/)
+  [![ForTheBadge powered-by-black-magic](http://ForTheBadge.com/images/badges/powered-by-black-magic.svg)](https://thegreattech.tech)
+  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://mca.free.nf)
+  [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/maqsoodhussain)
+  [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](https://github.com/maqsoodhussain)
+  [![ForTheBadge not-a-bug-a-feature](http://ForTheBadge.com/images/badges/not-a-bug-a-feature.svg)](https://thegreattech.tech)
 </div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-<!--
-**maqsoodhussain/maqsoodhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns:
-- ⚡ Fun fact: ...
--->
