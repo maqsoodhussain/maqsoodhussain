@@ -67,7 +67,7 @@
 ### Enterprise Solutions
 | <img src="https://www.thegreattech.tech/img/clients/stressOut.jpg" width="100"> | <img src="https://www.thegreattech.tech/img/clients/wcwsociety.png" width="100"> | <img src="https://www.thegreattech.tech/img/clients/pursukoonvilla.png" width="100"> |
 |------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| [Stress Out Tours](https://stressouttours.com)                                                             | [WCW Society](https://wcwsociety.org.in)                                                           | [Pursukoon Villa](https://pursukoonvilla.live)                                                                  |
+| [Stress Out Tours](https://stressouttours.com)                                                             | [WCW Society](https://wcwsociety.org.in)                                                           | [Pursukoon Villa](https://pursukoonvilla.in)                                                                  |
 
 ### Educational Resources
 - [📘 ALP Study Notes](https://maqsoodhussain.github.io/emunotes/)
