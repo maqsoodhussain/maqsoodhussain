@@ -67,7 +67,7 @@
 
 | <img src="https://applausekashmir.in/APPLAUSE_KASHMIR (1).png" width="100"> | <img src="https://www.thegreattech.tech/img/clients/pursukoonvilla.png" width="100"> | <img src="https://www.thegreattech.tech/img/clients/wcwsociety.png" width="100"> | <img src="https://www.thegreattech.tech/img/clients/stressOut.jpg" width="100"> |
 |-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [**Applause Kashmir**](https://applausekashmir.in) | [**Pursukoon Villa**](https://pursukoonvilla.in) | [**WCW Society**](https://wcwsociety.org.in) | [**Stress Out Tours**](https://stressouttours.com) |
+| [**Applause Kashmir**](https://www.applausekashmir.in/) | [**Pursukoon Villa**](https://pursukoonvilla.in) | [**WCW Society**](https://wcwsociety.org.in) | [**Stress Out Tours**](https://stressouttours.com) |
 
 
 ### Educational Resources
