@@ -65,9 +65,10 @@
 ## 🌟 Project Portfolio
 
 ### Enterprise Solutions
-| <img src="https://www.thegreattech.tech/img/clients/stressOut.jpg" width="100"> | <img src="https://www.thegreattech.tech/img/clients/wcwsociety.png" width="100"> | <img src="https://www.thegreattech.tech/img/clients/pursukoonvilla.png" width="100"> |
-|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| [Stress Out Tours](https://stressouttours.com)                                                             | [WCW Society](https://wcwsociety.org.in)                                                           | [Pursukoon Villa](https://pursukoonvilla.in)                                                                  |
+
+| <img src="https://www.thegreattech.tech/img/clients/stressOut.jpg" width="100"> | <img src="https://www.thegreattech.tech/img/clients/wcwsociety.png" width="100"> | <img src="https://www.thegreattech.tech/img/clients/pursukoonvilla.png" width="100"> | <img src="https://applausekashmir.in\APPLAUSE_KASHMIR (1).png" width="100"> |
+|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| [**Stress Out Tours**](https://stressouttours.com) | [**WCW Society**](https://wcwsociety.org.in) | [**Pursukoon Villa**](https://pursukoonvilla.in) | [**Applause Kashmir**](https://applausekashmir.in) |
 
 ### Educational Resources
 - [📘 ALP Study Notes](https://maqsoodhussain.github.io/emunotes/)
