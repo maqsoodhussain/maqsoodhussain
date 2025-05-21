@@ -1,3 +1,14 @@
+<!-- Thin image banner strip -->
+<p align="center">
+  <a href="https://www.thegreattech.tech/freepalestine" target="_blank">
+    <img src="https://www.thegreattech.tech/palestine.gif" alt="Free Palestine" width="100%" height="25">
+  </a>
+</p>
+
+<!-- Text support strip -->
+<p align="center">
+  🇵🇸 <strong>We Stand With Palestine — Freedom, Dignity, and Justice for All</strong> 🇵🇸
+</p>
 
 <h1 align="center">
   <a href="#">
@@ -28,11 +39,7 @@
 </p>
 
 ---
-<h1 align="center">
-  <a href="#">
-    <img src="https://www.thegreattech.tech/palestine.gif">
-  </a>
-</h1>
+
 
 ## � GitHub Foundation Certification
 
