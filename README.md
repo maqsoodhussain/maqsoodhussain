@@ -1,15 +1,15 @@
 <!-- Thin image banner strip -->
 <p align="center">
   <a href="https://www.thegreattech.tech/freepalestine" target="_blank">
-    <img src="https://www.thegreattech.tech/palestine.gif" alt="Free Palestine" width="100%" height="60">
+    <img src="https://www.thegreattech.tech/palestine.gif" alt="Free Palestine" width="100%" height="190">
   </a>
 </p>
 
 <!-- Text support strip -->
 <p align="center">
-  🇵🇸 <strong>We Stand With Palestine — Freedom, Dignity, and Justice for All</strong> 🇵🇸
+ <strong>We Stand With Palestine — Freedom, Dignity, and Justice for All</strong>
 </p>
-
+<br>
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI;&center=true&size=30&color=00C7FF&width=550&fontWeight=600">
