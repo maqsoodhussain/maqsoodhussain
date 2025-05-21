@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://www.thegreattech.tech/palestine.gif">
-  </a>
-</h1>
+
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI;&center=true&size=30&color=00C7FF&width=550&fontWeight=600">
@@ -32,6 +28,11 @@
 </p>
 
 ---
+<h1 align="center">
+  <a href="#">
+    <img src="https://www.thegreattech.tech/palestine.gif">
+  </a>
+</h1>
 
 ## � GitHub Foundation Certification
 
