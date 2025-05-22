@@ -1,7 +1,7 @@
 <!-- Thin image banner strip -->
 <p align="center">
   <a href="https://www.thegreattech.tech/freepalestine" target="_blank">
-    <img src="https://www.thegreattech.tech/palestine.gif" alt="Free Palestine" width="100%" height="190">
+    <img src="palestine.gif" alt="Free Palestine" width="100%" height="190">
   </a>
 </p>
 
