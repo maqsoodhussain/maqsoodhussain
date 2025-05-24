@@ -12,7 +12,7 @@
 <br>
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI;&center=true&size=30&color=00C7FF&width=550&fontWeight=600">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI;&center=true&size=30&color=00C7FF&width=550&fontWeight=800">
   </a>
 </h1>
 
@@ -33,7 +33,9 @@
   - 🌐 Creator of [MCA Community](https://mca.free.nf) - 500+ member developer collective
   - 📚 Curator of [BCA/MCA Resources](https://maqsoodhussain.github.io/mca)
   - 🏅 GitHub Certified Developer | CS50 Alumni
-  - 📫 Contact: [maqsood@thegreattech.tech](mailto:maqsood@thegreattech.tech)
+  - 📫 Contact: [maqsood@thegreattech.tech](mailto:maqsood@thegreattech.tech) / [themaqsoodhussainwani@gmail.com](mailto:themaqsoodhussainwani@gmail.com)
+  - 📱 Whatsapp [whatsapp](https://wa.me/+917889528326)
+  - 📞 Phone [Phone](tel:+917889528326)
 
   **"Engineering digital solutions that drive business growth"**
 </p>
