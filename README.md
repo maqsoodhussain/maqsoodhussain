@@ -35,7 +35,7 @@
   - 🏅 GitHub Certified Developer | CS50 Alumni
   - 📫 Contact: [maqsood@thegreattech.tech](mailto:maqsood@thegreattech.tech) / [themaqsoodhussainwani@gmail.com](mailto:themaqsoodhussainwani@gmail.com)
   - 📱 Whatsapp [whatsapp](https://wa.me/+917889528326)
-  - 📞 Phone [Phone](tel:+917889528326)
+  - <a href="tel:+923001234567">📞 +91 7889528326</a>
 
   **"Engineering digital solutions that drive business growth"**
 </p>
