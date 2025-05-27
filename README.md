@@ -31,7 +31,7 @@
   
   - 💼 Founder & CEO of [TheGreatTech](https://thegreattech.tech) - Award-winning development agency
   - 🌐 Creator of [TheTechHive](https://thetechhive.free.nf) - 500+ member developer collective
-  - 📚 Curator of [BCA/MCA Resources](https://maqsoodhussain.github.io/mca)
+  - 📚 Curator of [BCA/MCA Resources](mca.free.nf)
   - 🏅 GitHub Certified Developer | CS50 Alumni
   - 📫 Contact: [maqsood@thegreattech.tech](mailto:maqsood@thegreattech.tech) / [themaqsoodhussainwani@gmail.com](mailto:themaqsoodhussainwani@gmail.com)
   - 📱 Whatsapp [whatsapp](https://wa.me/+917889528326)
