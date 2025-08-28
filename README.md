@@ -29,7 +29,7 @@
 <p align="left">
   <img src="undraw_developer-activity_dn7p.svg" align="right" width="200" />
   
-  - 💼 Founder & CEO of [TheGreatTech](https://thegreattech.tech) - Award-winning development agency
+  - 💼 Founder & CEO of [TheGreatTech](https://thegreattech.github.io/) - Award-winning development agency
   - 🌐 Creator of [TheTechHive](https://thetechhive.free.nf) - 500+ member developer collective
   - 📚 Curator of [BCA/MCA Resources](https://mca.free.nf)
   - 🏅 GitHub Certified Developer | CS50 Alumni
