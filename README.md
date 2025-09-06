@@ -33,7 +33,7 @@
   - 🌐 Creator of [TheTechHive](https://thetechhive.free.nf) - 500+ member developer collective
   - 📚 Curator of [BCA/MCA Resources](https://mca.free.nf)
   - 🏅 GitHub Certified Developer | CS50 Alumni
-  - 📫 Contact: [maqsood@thegreattech.tech](mailto:maqsood@thegreattech.tech) / [themaqsoodhussainwani@gmail.com](mailto:themaqsoodhussainwani@gmail.com)
+  - 📫 Contact: [themaqsoodhussainwani@gmail.com](mailto:themaqsoodhussainwani@gmail.com)
   - 📱 Whatsapp [whatsapp](https://wa.me/+917889528326)
   - <a href="tel:+923001234567">📞 +91 7889528326</a>
 
