@@ -98,6 +98,48 @@
 
 ---
 
+
+# 📚 MyBookshelf
+
+Welcome to my **personal bookshelf**! Here I share books that inspire me, help me grow, and touch my heart. 🌱
+
+---
+
+## 🧠 Self-Improvement
+
+Books that help me build habits, stay motivated, and grow.  
+
+- *Atomic Habits* – James Clear  
+- *The Power of Now* – Eckhart Tolle  
+- *Radical Acceptance* – Tara Brach  
+- *Mindset* – Carol Dweck  
+- *Essentialism* – Greg McKeown  
+- *The Happiness Advantage* – Shawn Achor  
+- *Think and Grow Rich* – Napoleon Hill  
+- *The Gifts of Imperfection* – Brené Brown  
+
+---
+
+## 🌸 Novels That Heal
+
+Stories that touch the heart, explore resilience, and inspire courage.  
+
+- *A Thousand Splendid Suns* – Khaled Hosseini  
+- *The Kite Runner* – Khaled Hosseini  
+- *I Am Nujood, Age 10 and Divorced* – Nujood Ali  
+- *The Color Purple* – Alice Walker  
+- *Sold* – Patricia McCormick  
+- *The Book Thief* – Markus Zusak  
+- *Not Without My Daughter* – Betty Mahmoody  
+- *Reading Lolita in Tehran* – Azar Nafisi  
+
+---
+
+> 📖 **Why I read:**  
+> Reading helps me grow, find peace, and connect with stories beyond my own life. 🌟
+
+
+
 ## 📊 GitHub Analytics
 
 <p align="center">
