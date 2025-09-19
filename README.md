@@ -82,7 +82,7 @@
 ## 🌟 Project Portfolio
 ### Enterprise Solutions
 
-| <img src="https://applausekashmir.in/APPLAUSE_KASHMIR (1).png" width="100"> | <img src="https://pursukoonvilla.in/assets/images/material/room1.jpg" width="100"> | <img src="https://www.thegreattech.github.io/img/clients/wcwsociety.png" width="100"> | <img src="https://maqsoodhussain.github.io/stressouttours/assets/images/stressout-blue.svg" width="100"> |
+| <img src="https://applausekashmir.in/APPLAUSE_KASHMIR (1).png" width="100"> | <img src="https://pursukoonvilla.in/assets/images/material/room1.jpg" width="100"> | <img src="https://thegreattech.github.io/assets/images/clients/wcwsociety.png" width="100"> | <img src="https://maqsoodhussain.github.io/stressouttours/assets/images/stressout-blue.svg" width="100"> |
 |-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [**Applause Kashmir**](https://www.applausekashmir.in/) | [**Pursukoon Villa**](https://pursukoonvilla.in) | [**WCW Society**](https://maqsoodhussain.github.io/wcwsociety) | [**Stress Out Tours**](https://maqsoodhussain.github.io/stressouttours) |
 
