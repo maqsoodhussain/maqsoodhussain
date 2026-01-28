@@ -1,198 +1,186 @@
-<!-- Thin image banner strip -->
-<!-- <p align="center">
-  <a href="https://thegreattech.github.io/freepalestine" target="_blank">
-    <img src="palestine.gif" alt="Free Palestine" width="100%" height="190">
+
+# 🌌 MAQSOOD HUSSAIN WANI
+
+### *Building Tech. Leading Communities. Shipping Impact.*
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00C7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Founder+%26+CEO+%40+TheGreatTech;Flutter+%7C+Node+%7C+PHP+%7C+React;Open+Source+Contributor;Community+Builder" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/coding.gif" width="420"/>
+</p>
+
+---
+
+## 🧠 About Me
+
+```yaml
+Name: Maqsood Hussain Wani
+Role: Full-Stack Developer | Founder | Trainer
+Location: Kashmir, India 🇮🇳
+Education: MCA – University of Kashmir
+Mindset: Learn → Build → Teach → Scale
+```
+
+* 🚀 **Founder & CEO – TheGreatTech**
+* 👥 Built & scaled **TechHive (500+ developers)**
+* 📱 Flutter & Web Specialist
+* 🧩 Loves complex systems & real-world problem solving
+* 🎓 Trainer | Mentor | Research Enthusiast
+* 🔐 Research background in **Cybersecurity & Keylogger Detection**
+
+> **“I don’t just write code — I design systems, communities, and futures.”**
+
+---
+
+## 🏆 Certifications & Recognition
+
+<p align="center">
+  <a href="https://www.credly.com/badges/f64da880-ad15-4d12-8a84-e4d664c56941/public_url">
+    <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="180"/>
   </a>
 </p>
 
+* 🟢 **GitHub Foundations – GitHub**
+* 🎓 **CS50x – Harvard University**
+* 🔐 **Cyber Security Foundation – CertiProf**
+* 🎯 **Front-End Fundamentals – Meta**
+* 📈 **Digital Marketing – Google**
+* 👨‍🏫 **Train The Trainer – EduBridge**
+
+---
+
+## ⚙️ Tech Stack (Powered by SkillIcons)
+
+### 💻 Languages
 
 <p align="center">
- <strong>We Stand With Palestine — Freedom, Dignity, and Justice for All</strong>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,dart,js" />
 </p>
-<br> -->
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI;&center=true&size=30&color=00C7FF&width=550&fontWeight=800">
-  </a>
-</h1>
+
+### 🌐 Web & Backend
 
 <p align="center">
-  <img src="assets/undraw_version_control_re_mg66.svg" width="300" /> 
-  <br>
-  <b>CEO @ TheGreatTech</b> | Full-Stack Developer | Tech Community Architect
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express" />
 </p>
 
---- 
+### 📱 Mobile & Databases
 
-## 🚀 Professional Overview
-
-<p align="left">
-  <img src="undraw_developer-activity_dn7p.svg" align="right" width="200" />
-  
-  - 💼 Founder & CEO of [TheGreatTech](https://thegreattech.github.io/) - Award-winning development agency
-  - 🌐 Creator of [TheTechHive](https://thetechhive.free.nf) - 500+ member developer collective
-  - 📚 Curator of [BCA/MCA Resources](https://mca.free.nf)
-  - 🏅 GitHub Certified Developer | CS50 Alumni
-  - 📫 Contact: [themaqsoodhussainwani@gmail.com](mailto:themaqsoodhussainwani@gmail.com)
-  - 📱 Whatsapp [whatsapp](https://wa.me/+917889528326)
-  - <a href="tel:+923001234567">📞 +91 7889528326</a>
-
-  **"Engineering digital solutions that drive business growth"**
-</p>
-
----
-
-
-## � GitHub Foundation Certification
-
-<div align="center">
-  <h3>Official Certification Badge</h3>
-  <a href="https://www.credly.com/badges/f64da880-ad15-4d12-8a84-e4d664c56941/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="200">
-  </a>
-  <br>
-  <i>Validated expertise in GitHub workflows and collaboration</i>
-</div>
-
----
-
-## 💻 Technical Expertise
-
-### Core Development Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,mongodb" />
 </p>
 
-### Web & Mobile Technologies
+### 🛠 Tools & Platforms
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/firebase-47A248?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,windows" />
 </p>
 
 ---
 
-## 🌟 Project Portfolio
-### Enterprise Solutions
+## 🚀 Featured Projects
 
-| <img src="https://applausekashmir.in/APPLAUSE_KASHMIR (1).png" width="100"> | <img src="https://pursukoonvilla.in/assets/images/material/room1.jpg" width="100"> | <img src="https://thegreattech.github.io/assets/images/clients/wcwsociety.png" width="100"> | <img src="https://maqsoodhussain.github.io/stressouttours/assets/images/stressout-blue.svg" width="100"> |
-|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [**Applause Kashmir**](https://www.applausekashmir.in/index_m.html) | [**Pursukoon Villa**](https://pursukoonvilla.in) | [**WCW Society**](https://maqsoodhussain.github.io/wcwsociety/index_m.html) | [**Stress Out Tours**](https://maqsoodhussain.github.io/stressouttours/index_m.html) |
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/developer.gif" width="350"/>
+</p>
 
+### 🏢 Enterprise & Client Projects
 
-### Educational Resources
-- [📘 ALP Study Notes](https://maqsoodhussain.github.io/emunotes/)
-- [📚 Data Structures Masterclass](https://github.com/maqsoodhussain/Data-Structure-Notes)
-- [🎓 MCA Syllabus Portal](https://maqsoodhussain.github.io/mca)
-
-### Experimental Projects
-| [🎮 Tic Tac Toe](https://maqsoodhussain.github.io/Tic-Tac-Toe/) | [💡 Smart Bulb](https://maqsoodhussain.github.io/blubonoff/) | [📄 Interactive CV](https://maqsoodhussain.github.io/resume/) |
-|----------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| Project                 | Description                              |
+| ----------------------- | ---------------------------------------- |
+| 🌄 **Applause Kashmir** | Tourism platform with booking & branding |
+| 🏡 **Pursukoon Villa**  | Hospitality website with booking UI      |
+| 👩‍👧 **WCW Society**   | NGO website & content management         |
+| 🧳 **Stress Out Tours** | Travel planning & lead generation        |
 
 ---
 
+### 🎓 Educational & Open Source
 
-# 📚 MyBookshelf
-
-Welcome to my **personal bookshelf**! Here I share books that inspire me, help me grow, and touch my heart. 🌱
-
----
-
-## 🧠 Self-Improvement
-
-Books that help me build habits, stay motivated, and grow.  
-
-- *Atomic Habits* – James Clear  
-- *The Power of Now* – Eckhart Tolle  
-- *Radical Acceptance* – Tara Brach  
-- *Mindset* – Carol Dweck  
-- *Essentialism* – Greg McKeown  
-- *The Happiness Advantage* – Shawn Achor  
-- *Think and Grow Rich* – Napoleon Hill  
-- *The Gifts of Imperfection* – Brené Brown  
+* 📚 **MCA/BCA Learning Portal**
+* 🧠 **Data Structures Notes**
+* 🧪 **TechHive – Student Community Platform**
+* 🧾 **Result Evaluation System (Final Year Project)**
 
 ---
 
-## 🌸 Novels That Heal
+### 🧪 Experimental Builds
 
-Stories that touch the heart, explore resilience, and inspire courage.  
-
-- *A Thousand Splendid Suns* – Khaled Hosseini  
-- *The Kite Runner* – Khaled Hosseini  
-- *I Am Nujood, Age 10 and Divorced* – Nujood Ali  
-- *The Color Purple* – Alice Walker  
-- *Sold* – Patricia McCormick  
-- *The Book Thief* – Markus Zusak  
-- *Not Without My Daughter* – Betty Mahmoody  
-- *Reading Lolita in Tehran* – Azar Nafisi  
+| 🎮 Game     | 💡 IoT                | 📄 Resume      |
+| ----------- | --------------------- | -------------- |
+| Tic-Tac-Toe | Smart Bulb Controller | Interactive CV |
 
 ---
 
-> 📖 **Why I read:**  
-> Reading helps me grow, find peace, and connect with stories beyond my own life. 🌟
+## 📚 MyBookshelf
 
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/book.gif" width="260"/>
+</p>
 
+### 🧠 Growth & Mindset
+
+* Atomic Habits
+* Mindset
+* Essentialism
+* The Power of Now
+
+### 🌸 Novels That Heal
+
+* A Thousand Splendid Suns
+* The Kite Runner
+* The Book Thief
+* Sold
+
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maqsoodhussain&theme=dark" alt="GitHub Streak" /></a> 
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=maqsoodhussain&show_icons=true&theme=vision-friendly-dark&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqsoodhussain&layout=compact&theme=vision-friendly-dark&langs_count=8">
+  <img src="https://streak-stats.demolab.com?user=maqsoodhussain&theme=dark" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=maqsoodhussain&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqsoodhussain&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/maqsoodhussainwani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/maqsoodhussainwani">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://x.com/_maqsoodhussain" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  <a href="https://x.com/_maqsoodhussain">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://kaggle.com/maqsoodhussain" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  <a href="mailto:themaqsoodhussainwani@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+📞 **+91 7889528326**
+🌐 **[https://maqsoodhussain.github.io](https://maqsoodhussain.github.io)**
 
 ---
 
 ## ☕ Support My Work
 
-If you find my work valuable, please consider buying me a coffee – your support helps me continue building and sharing great tech:
-
 <p align="center">
-  <a href="https://www.buymeacoffee.com/maqsoodhussain" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
+  <a href="https://www.buymeacoffee.com/maqsoodhussain">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="160"/>
   </a>
 </p>
 
-*Thank you for visiting my profile!*
-
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maqsoodhussain&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  
-  <br>
-  
-  <img src="assets/github-snake.svg" width="100%">
-  
-  [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/maqsoodhussain/)
-  [![ForTheBadge powered-by-black-magic](http://ForTheBadge.com/images/badges/powered-by-black-magic.svg)](https://thegreattech.tech)
-  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://mca.free.nf)
-  [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/maqsoodhussain)
-  [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](https://github.com/maqsoodhussain)
-  [![ForTheBadge not-a-bug-a-feature](http://ForTheBadge.com/images/badges/not-a-bug-a-feature.svg)](https://thegreattech.tech)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maqsoodhussain&color=blueviolet&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/rocket.gif" width="200"/>
+</p>
+
+---
