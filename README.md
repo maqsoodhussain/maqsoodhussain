@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<!-- Text support strip -->
+
 <p align="center">
  <strong>We Stand With Palestine — Freedom, Dignity, and Justice for All</strong>
 </p>
