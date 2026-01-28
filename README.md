@@ -60,19 +60,10 @@
 ## 💻 Technical Expertise
 
 ### Core Development Stack
-[<p align="center">
-  <img src="https://skillicons.dev/icons?i=
-  c,cpp,java,python,php,dart,js,
-  html,css,bootstrap,tailwind,
-  nodejs,express,
-  flutter,
-  mysql,mongodb,firebase,
-  git,github,
-  postman,
-  vscode,androidstudio,
-  linux,windows
-  &perline=10" />
-</p>](https://skillicons.dev/icons?i=c,cpp,java,python,php,dart,js,html,css,bootstrap,tailwind,react,nodejs,express,flutter,mysql,mongodb,firebase,git,github,postman,vscode,androidstudio,linux,windows&perline=10)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,dart,js,html,css,bootstrap,tailwind,react,nodejs,express,flutter,mysql,mongodb,firebase,git,github,postman,vscode,androidstudio,linux,windows&perline=10" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
