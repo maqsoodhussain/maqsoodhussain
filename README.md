@@ -1,5 +1,5 @@
 <!-- Thin image banner strip -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://thegreattech.github.io/freepalestine" target="_blank">
     <img src="palestine.gif" alt="Free Palestine" width="100%" height="190">
   </a>
@@ -9,7 +9,7 @@
 <p align="center">
  <strong>We Stand With Palestine — Freedom, Dignity, and Justice for All</strong>
 </p>
-<br>
+<br> -->
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI;&center=true&size=30&color=00C7FF&width=550&fontWeight=800">
