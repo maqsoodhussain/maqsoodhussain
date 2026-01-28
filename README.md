@@ -1,6 +1,4 @@
-Here's an enhanced version of your README with online logos, images, and GIFs integrated using markdown:
 
-```markdown
 # MAQSOOD HUSSAIN WANI  
 📍 Aripanthan, Beerwah, Budgam, J&K, India  
 📞 +91 7889528326 | 📧 themaqsoodhussainwani@gmail.com  
@@ -74,7 +72,7 @@ Here's an enhanced version of your README with online logos, images, and GIFs in
 
 ### 📈 Skillset Overview
 
-```mermaid
+```
 pie title Skills Distribution
     "Web Development" : 30
     "Mobile Development" : 25
