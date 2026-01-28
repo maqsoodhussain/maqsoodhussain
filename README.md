@@ -61,6 +61,20 @@
 
 ### Core Development Stack
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=
+  c,cpp,java,python,php,dart,js,
+  html,css,bootstrap,tailwind,
+  nodejs,express,
+  flutter,
+  mysql,mongodb,firebase,
+  git,github,
+  postman,
+  vscode,androidstudio,
+  linux,windows
+  &perline=10" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
