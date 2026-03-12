@@ -158,10 +158,10 @@ motto: "Engineering digital solutions that drive business growth 🚀"
 
 | 🏷️ Course | 📘 Level | 📦 Repository | 🎯 Best For | 🚀 Status |
 |:---|:---:|:---:|:---|:---:|
-| [**framer-motion**](https://github.com/maqsoodhussain/framer-motion) | 🔵 Core | `framer-motion` | Quick reference & all API examples | ✅ Live |
-| [**framer-motion-beginner**](https://github.com/maqsoodhussain/framer-motion-beginner) | 🟢 Beginner | `framer-motion-beginner` | First-timers, zero to animated | ✅ Live |
-| [**framer-motion-advance**](https://github.com/maqsoodhussain/framer-motion-advance) | 🟠 Advanced | `framer-motion-advance` | Variants, scroll, layout animations | ✅ Live |
-| [**framer-motion-master**](https://github.com/maqsoodhussain/framer-motion-master) | 🔴 Master | `framer-motion-master` | Production-grade, complex projects | ✅ Live |
+| [**framer-motion**](https://maqsoodhussain.github.io/framer-motion) | 🔵 Core | `framer-motion` | Quick reference & all API examples | ✅ Live |
+| [**framer-motion-beginner**](https://maqsoodhussain.github.io/framer-motion-beginner) | 🟢 Beginner | `framer-motion-beginner` | First-timers, zero to animated | ✅ Live |
+| [**framer-motion-advance**](https://maqsoodhussain.github.io/framer-motion-advance) | 🟠 Advanced | `framer-motion-advance` | Variants, scroll, layout animations | ✅ Live |
+| [**framer-motion-master**](https://maqsoodhussain.github.io/framer-motion-master) | 🔴 Master | `framer-motion-master` | Production-grade, complex projects | ✅ Live |
 
 </div>
 
